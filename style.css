@@ -1,3 +1,4 @@
+/* all header specifications */
 h1{
   text-align:center;
   font-family: sans-serif;
@@ -18,7 +19,7 @@ h4{
   font-family:sans-serif;
   margin:0;
 }
-
+/* all main text specifications */
 p{
   font: Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size:17px;
@@ -43,7 +44,7 @@ article{
   font: Arial, "Helvetica Neue", Helvetica, sans-serif;
   font-size:17px
 }
-
+/* I will be revisitng many of these scripts to enhance the visual display of the website at a later date */
 footer{
   background-color:grey;
   height:100%;
